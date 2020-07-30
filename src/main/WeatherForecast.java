@@ -1,3 +1,5 @@
+package main;
+
 public class WeatherForecast {
     private AtomicForecast currently;
     private SubForecast hourly;

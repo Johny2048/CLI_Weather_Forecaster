@@ -1,3 +1,5 @@
+package main;
+
 public class City {
     private String country;
     private String name;

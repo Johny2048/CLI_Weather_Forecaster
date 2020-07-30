@@ -1,3 +1,5 @@
+package main;
+
 public class AtomicForecast {
     private double precipProbability;
 
