@@ -11,8 +11,12 @@ public class UserInputReader {
     }
 
     public String readInputCityName() {
-        String cityName = null;
+        try {
+            return bufferedReader.readLine();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
 
-        return cityName;
+        return "";
     }
 }
