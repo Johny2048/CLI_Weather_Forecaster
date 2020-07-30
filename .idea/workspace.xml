@@ -2,34 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6a23d1e-689c-4075-95a0-01356fdabec5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/tests/CityResolverTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/HttpContenttRetrieverTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/WeatherForecasterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/jackson_annotations_2_11_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/jackson_annotations_2_11_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CLI_Weather_Forecaster/#responseExample.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CLI_Weather_Forecaster/AtomicForecast.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CLI_Weather_Forecaster/City.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CLI_Weather_Forecaster/CityResolver$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CLI_Weather_Forecaster/CityResolver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CLI_Weather_Forecaster/HttpContentRetriever.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CLI_Weather_Forecaster/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CLI_Weather_Forecaster/SubForecast.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CLI_Weather_Forecaster/UserInputReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CLI_Weather_Forecaster/UserOutputPrinter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CLI_Weather_Forecaster/WeatherForecast.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CLI_Weather_Forecaster/WeatherForecaster.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/#responseExample.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/#responseExample.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AtomicForecast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/AtomicForecast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/City.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/City.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CityResolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/CityResolver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HttpContentRetriever.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/HttpContentRetriever.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SubForecast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/SubForecast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UserInputReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/UserInputReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UserOutputPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/UserOutputPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WeatherForecast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/WeatherForecast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WeatherForecaster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/WeatherForecaster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/WeatherForecaster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/WeatherForecaster.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,55 +24,94 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tests/HttpContenttRetrieverTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/HttpContentRetriever.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="116" column="21" lean-forward="true" selection-start-line="116" selection-start-column="4" selection-end-line="116" selection-end-column="21" />
+            <state relative-caret-position="204">
+              <caret line="12" column="48" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#218#219#0" expanded="true" />
-                <element signature="e#277#278#0" expanded="true" />
-                <element signature="e#6340#6341#0" expanded="true" />
-                <element signature="e#6436#6437#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/CityResolver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/AtomicForecast.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="36" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/tests/WeatherForecasterTest.java">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="204">
+                <caret line="19" selection-start-line="19" selection-end-line="19" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/City.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="47" column="11" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="11" />
+            <state relative-caret-position="238">
+              <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/UserInputReader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1547">
+              <caret line="91" selection-start-line="91" selection-end-line="91" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#259#260#0" expanded="true" />
-                <element signature="e#318#319#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tests/CityResolverTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="53" column="21" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/HttpContentRetriever.java">
+        <entry file="file://$PROJECT_DIR$/src/main/SubForecast.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="12" column="48" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="48" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/UserOutputPrinter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/WeatherForecast.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -139,10 +152,11 @@
         <option value="$PROJECT_DIR$/src/UserInputReader.java" />
         <option value="$PROJECT_DIR$/src/WeatherForecaster.java" />
         <option value="$PROJECT_DIR$/tests/CityResolverTests.java" />
-        <option value="$PROJECT_DIR$/src/main/WeatherForecaster.java" />
         <option value="$PROJECT_DIR$/src/tests/HttpContenttRetrieverTest.java" />
         <option value="$PROJECT_DIR$/src/tests/CityResolverTests.java" />
         <option value="$PROJECT_DIR$/src/tests/WeatherForecasterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/WeatherForecaster.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -205,11 +219,11 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1596139906332" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1596141971007" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/hamcrest-core-1.3.jar!/" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -340,26 +354,11 @@
       <updated>1596057509554</updated>
       <workItem from="1596057515997" duration="2969000" />
       <workItem from="1596060546783" duration="5181000" />
-      <workItem from="1596114919925" duration="19418000" />
+      <workItem from="1596114919925" duration="21608000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="tests_in_CLI_Weather_Forecaster - 2020.07.30 at 20h 57m 20s.xml">
-      <configuration name="tests in CLI_Weather_Forecaster" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CityResolverTests_testSomeCity - 2020.07.30 at 20h 59m 54s.xml">
-      <configuration name="CityResolverTests.testSomeCity" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="HttpContenttRetrieverTest_test4 - 2020.07.30 at 21h 01m 09s.xml">
-      <configuration name="HttpContenttRetrieverTest.test4" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="HttpContenttRetrieverTest_test4 - 2020.07.30 at 21h 03m 08s.xml">
-      <configuration name="HttpContenttRetrieverTest.test4" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="HttpContenttRetrieverTest_test4 - 2020.07.30 at 21h 03m 17s.xml">
-      <configuration name="HttpContenttRetrieverTest.test4" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CityResolverTests - 2020.07.30 at 21h 06m 00s.xml">
       <configuration name="CityResolverTests" configurationId="JUnit" />
     </history-entry>
@@ -375,15 +374,30 @@
     <history-entry file="WeatherForecasterTest_test4 - 2020.07.30 at 21h 08m 58s.xml">
       <configuration name="WeatherForecasterTest.test4" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="WeatherForecasterTest_test4 - 2020.07.30 at 21h 09m 44s.xml">
+      <configuration name="WeatherForecasterTest.test4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WeatherForecasterTest_test4 - 2020.07.30 at 21h 10m 13s.xml">
+      <configuration name="WeatherForecasterTest.test4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WeatherForecasterTest_test4 - 2020.07.30 at 21h 10m 31s.xml">
+      <configuration name="WeatherForecasterTest.test4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WeatherForecasterTest_test4 - 2020.07.30 at 21h 11m 27s.xml">
+      <configuration name="WeatherForecasterTest.test4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="tests_in_CLI_Weather_Forecaster - 2020.07.30 at 21h 12m 08s.xml">
+      <configuration name="tests in CLI_Weather_Forecaster" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27568000" />
+    <option name="totallyTimeSpent" value="29758000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2632375" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23146747" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -393,7 +407,7 @@
       <window_info anchor="bottom" id="Duplicate detector" weight="0.3289689" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4977307" visible="true" weight="0.39443535" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4977307" visible="true" weight="0.39443535" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -443,60 +457,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/City.java">
+    <entry file="file://$PROJECT_DIR$/src/tests/HttpContenttRetrieverTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
-          <folding>
-            <element signature="e#327#328#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/CityResolver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+        <state relative-caret-position="210">
+          <caret line="116" column="21" lean-forward="true" selection-start-line="116" selection-start-column="4" selection-end-line="116" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#580#581#0" expanded="true" />
-            <element signature="e#615#616#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#6340#6341#0" expanded="true" />
+            <element signature="e#6436#6437#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/UserInputReader.java">
+    <entry file="file://$PROJECT_DIR$/src/tests/WeatherForecasterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1513">
-          <caret line="91" selection-start-line="91" selection-end-line="91" />
+        <state relative-caret-position="186">
+          <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tests/CityResolverTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="53" column="21" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/UserOutputPrinter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/WeatherForecaster.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        <state relative-caret-position="612">
+          <caret line="36" column="10" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/AtomicForecast.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="36" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -504,6 +507,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/UserOutputPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/UserInputReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1547">
+          <caret line="91" selection-start-line="91" selection-end-line="91" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -523,7 +543,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/HttpContentRetriever.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
+        <state relative-caret-position="204">
           <caret line="12" column="48" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -531,39 +551,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tests/CityResolverTests.java">
+    <entry file="file://$PROJECT_DIR$/src/main/CityResolver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="53" column="21" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
+        <state relative-caret-position="527">
+          <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tests/HttpContenttRetrieverTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/City.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="116" column="21" lean-forward="true" selection-start-line="116" selection-start-column="4" selection-end-line="116" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#277#278#0" expanded="true" />
-            <element signature="e#6340#6341#0" expanded="true" />
-            <element signature="e#6436#6437#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="238">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tests/WeatherForecasterTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/AtomicForecast.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="47" column="11" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#259#260#0" expanded="true" />
-            <element signature="e#318#319#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="51">
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="204">
+            <caret line="19" selection-start-line="19" selection-end-line="19" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -607,7 +625,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>11</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
