@@ -2,28 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6a23d1e-689c-4075-95a0-01356fdabec5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jackson_annotations_2_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CLI_Weather_Forecaster/#responseExample.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CLI_Weather_Forecaster/AtomicForecast.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CLI_Weather_Forecaster/META-INF/CLI_Weather_Forecaster.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CLI_Weather_Forecaster/SubForecast.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/#responseExample.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AtomicForecast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SubForecast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jarDependencies/jackson-annotations-2.11.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jarDependencies/jackson-core-2.11.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jarDependencies/jackson-databind-2.11.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CityResolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HttpContentRetriever.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CLI_Weather_Forecaster.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CLI_Weather_Forecaster.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CLI_Weather_Forecaster/ExceptionMessagePrinter.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/CLI_Weather_Forecaster/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CLI_Weather_Forecaster/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/CLI_Weather_Forecaster/UserInputReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CLI_Weather_Forecaster/UserInputReader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CLI_Weather_Forecaster/UserOutputPrinter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CLI_Weather_Forecaster/UserOutputPrinter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CLI_Weather_Forecaster/WeatherForecast.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CLI_Weather_Forecaster/WeatherForecast.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/CLI_Weather_Forecaster/WeatherForecaster.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CLI_Weather_Forecaster/WeatherForecaster.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExceptionMessagePrinter.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/UserInputReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserInputReader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/UserOutputPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserOutputPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WeatherForecast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WeatherForecast.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/WeatherForecaster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WeatherForecaster.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -38,80 +29,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            <state relative-caret-position="68">
+              <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CLI_Weather_Forecaster.iml">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/CityResolver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#615#616#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/UserInputReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+            <state relative-caret-position="1513">
+              <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/#responseExample.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-128">
-              <caret line="982" selection-start-line="982" selection-end-line="982" />
-              <folding>
-                <element signature="e#25501#49907#0" />
-                <element signature="e#50004#60962#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/AtomicForecast.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="e#110#111#0" expanded="true" />
-                <element signature="e#150#151#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/WeatherForecast.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
-              <folding>
-                <element signature="e#174#175#0" expanded="true" />
-                <element signature="e#206#207#0" expanded="true" />
-                <element signature="e#244#245#0" expanded="true" />
-                <element signature="e#273#274#0" expanded="true" />
-                <element signature="e#310#311#0" expanded="true" />
-                <element signature="e#338#339#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SubForecast.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
-              <folding>
-                <element signature="e#87#88#0" expanded="true" />
-                <element signature="e#117#118#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -120,21 +63,19 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/UserOutputPrinter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="136">
+              <caret line="8" column="54" lean-forward="true" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/WeatherForecaster.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-9">
-              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+            <state relative-caret-position="-135">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#275#276#0" expanded="true" />
-                <element signature="e#319#320#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -167,9 +108,12 @@
         <option value="$PROJECT_DIR$/src/responseExample.json" />
         <option value="$PROJECT_DIR$/src/WeatherForecast.java" />
         <option value="$PROJECT_DIR$/src/AtomicForecast.java" />
-        <option value="$PROJECT_DIR$/src/UserOutputPrinter.java" />
         <option value="$PROJECT_DIR$/src/SubForecast.java" />
+        <option value="$PROJECT_DIR$/src/City.java" />
+        <option value="$PROJECT_DIR$/src/HttpContentRetriever.java" />
+        <option value="$PROJECT_DIR$/src/CityResolver.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/UserOutputPrinter.java" />
         <option value="$PROJECT_DIR$/src/UserInputReader.java" />
         <option value="$PROJECT_DIR$/src/WeatherForecaster.java" />
       </list>
@@ -182,8 +126,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="24" />
-    <option name="y" value="-18" />
+    <option name="x" value="181" />
+    <option name="y" value="-15" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
@@ -222,11 +166,16 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1596128025291" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1596135197506" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/jackson-databind-2.11.1.jar!/" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Code - GitHub\CLI_Weather_Forecaster\jarDependencies" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -269,16 +218,15 @@
       <updated>1596057509554</updated>
       <workItem from="1596057515997" duration="2969000" />
       <workItem from="1596060546783" duration="5181000" />
-      <workItem from="1596114919925" duration="7675000" />
+      <workItem from="1596114919925" duration="14666000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15825000" />
+    <option name="totallyTimeSpent" value="22816000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2632375" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -287,9 +235,10 @@
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Duplicate detector" weight="0.3289689" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4977307" visible="true" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4977307" visible="true" weight="0.396072" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -332,35 +281,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/UserInputReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WeatherForecaster.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9">
-          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#275#276#0" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/WeatherForecast.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -387,16 +307,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/UserOutputPrinter.java">
+    <entry file="file://$PROJECT_DIR$/src/AtomicForecast.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#150#151#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HttpContentRetriever.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/City.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+          <folding>
+            <element signature="e#84#85#0" expanded="true" />
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/#responseExample.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-128">
+        <state relative-caret-position="382">
           <caret line="982" selection-start-line="982" selection-end-line="982" />
           <folding>
             <element signature="e#25501#49907#0" />
@@ -405,13 +356,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AtomicForecast.java">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="68">
+          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CityResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
           <folding>
-            <element signature="e#110#111#0" expanded="true" />
-            <element signature="e#150#151#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#615#616#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UserInputReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1513">
+          <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UserOutputPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="54" lean-forward="true" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WeatherForecaster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-135">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
